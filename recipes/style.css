@@ -1,0 +1,43 @@
+/* style.css*/
+body {
+    text-align:center;
+    font-family:"Times New Roman", sans-serif;
+}
+
+h1 {
+    background-color:brown;
+}
+
+h2 {
+    background-color: aqua;
+}
+
+.ingredients {
+    display: inline-block;
+}
+
+.preparation {
+    display: inline-block;
+}
+
+.ullist {
+    display: block;
+}
+
+.ollist {
+    display: inline-block;
+}
+
+p {
+    background-color: yellow;
+    display: block;
+    padding: 10px;
+}
+
+ul {
+    text-align: left;
+}
+
+ol {
+    text-align: left;
+}
